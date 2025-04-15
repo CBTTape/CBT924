@@ -1,4 +1,4 @@
-2025-04-14 00:10:45.688504 - Received CBT.V505.FILE924.PDS from FILE924.XMI 
-2025-04-14 00:10:45.689160 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE924.PDS, moved to PDS/$$$#DATE
-2025-04-14 00:10:45.689278 - Found @FILE924.txt (text/plain) in CBT.V505.FILE924.PDS, moved to PDS/@FILE924
-2025-04-14 00:10:45.689400 - Found LDSI.rexx (text/plain) in CBT.V505.FILE924.PDS, moved to PDS/LDSI
+2025-04-15 06:50:38.124285 - Received CBT.V505.FILE924.PDS from FILE924.XMI 
+2025-04-15 06:50:38.125218 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE924.PDS, moved to PDS/$$$#DATE
+2025-04-15 06:50:38.125349 - Found @FILE924.txt (text/plain) in CBT.V505.FILE924.PDS, moved to PDS/@FILE924
+2025-04-15 06:50:38.125594 - Found LDSI.rexx (text/plain) in CBT.V505.FILE924.PDS, moved to PDS/LDSI
